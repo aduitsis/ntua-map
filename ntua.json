@@ -1,0 +1,1433 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2,
+        "description": "Aithousa Sugklitou"
+      },
+      "geometry": {
+        "coordinates": [
+          23.781579,
+          37.977334
+        ],
+        "type": "Point"
+      },
+      "id": "00172cd14092f4a06985c1b08645af16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2
+      },
+      "geometry": {
+        "coordinates": [
+          23.780167,
+          37.975202
+        ],
+        "type": "Point"
+      },
+      "id": "022bbaed586af98a1200160caa09c282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0
+      },
+      "geometry": {
+        "coordinates": [
+          23.780362,
+          37.975073
+        ],
+        "type": "Point"
+      },
+      "id": "053db40d70c1e69592ad191fe307f0bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0,
+        "description": "Gewpliroforikis"
+      },
+      "geometry": {
+        "coordinates": [
+          23.779357,
+          37.975393
+        ],
+        "type": "Point"
+      },
+      "id": "063621d6b0e724b19f054d5613f42969"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.782747,
+          37.977098
+        ],
+        "type": "Point"
+      },
+      "id": "09e5c8b4c7f9032c1487272047d621b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.783624,
+          37.97701
+        ],
+        "type": "Point"
+      },
+      "id": "0a6c84cf5991832cc419ab99d8229e1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.782987,
+          37.979437
+        ],
+        "type": "Point"
+      },
+      "id": "0c0e8aec4aedacef74b0a231e8551494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Aithousa Ekdilwsewn"
+      },
+      "geometry": {
+        "coordinates": [
+          23.779059,
+          37.976524
+        ],
+        "type": "Point"
+      },
+      "id": "0c24de47fee24ba0dac628a269499f21"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.781196,
+          37.977471
+        ],
+        "type": "Point"
+      },
+      "id": "110318f17125a1728c5f568d008ecf32"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.780434,
+          37.97485
+        ],
+        "type": "Point"
+      },
+      "id": "11c32df1aaab412e830b8042d67e3665"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.783395,
+          37.97943
+        ],
+        "type": "Point"
+      },
+      "id": "128a0dc3c12f587187ad7e27230ebf5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": -1,
+        "description": "Aithousa Tilekpaideusis"
+      },
+      "geometry": {
+        "coordinates": [
+          23.782284,
+          37.978293
+        ],
+        "type": "Point"
+      },
+      "id": "135f4b6466a276ecc90360b7c5bd0215"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.774048,
+          37.978818
+        ],
+        "type": "Point"
+      },
+      "id": "161b6e8bad7809f9699fc22f3d7f490e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.77808,
+          37.977461
+        ],
+        "type": "Point"
+      },
+      "id": "16d0ccdf5aa7ae985b6205fbf0f06653"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784754,
+          37.976795
+        ],
+        "type": "Point"
+      },
+      "id": "170cded60993dfe0c6ab052591382b6a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2,
+        "description": "Grafeio Prytani"
+      },
+      "geometry": {
+        "coordinates": [
+          23.781725,
+          37.977432
+        ],
+        "type": "Point"
+      },
+      "id": "1811c391bb928da82dc3a7387ba9bb42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1
+      },
+      "geometry": {
+        "coordinates": [
+          23.779511,
+          37.97536
+        ],
+        "type": "Point"
+      },
+      "id": "1903108f2ae9e5611644fdb3a1183cec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.779652,
+          37.975657
+        ],
+        "type": "Point"
+      },
+      "id": "21a45341293591ea70550562a4101108"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.779121,
+          37.976928
+        ],
+        "type": "Point"
+      },
+      "id": "23406d601259cf7105056f307e030696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": -1
+      },
+      "geometry": {
+        "coordinates": [
+          23.782554,
+          37.97757
+        ],
+        "type": "Point"
+      },
+      "id": "2805352f195e41f22b114a26420d8271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.78448,
+          37.975727
+        ],
+        "type": "Point"
+      },
+      "id": "286b089fd85dc53da1ed40df33a7c2fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": -1,
+        "description": "Amfitheatro Polymeswn"
+      },
+      "geometry": {
+        "coordinates": [
+          23.782302,
+          37.978496
+        ],
+        "type": "Point"
+      },
+      "id": "29295d0c748ad3bbe961135499d1e678"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.776772,
+          37.977512
+        ],
+        "type": "Point"
+      },
+      "id": "2adbf1a0f69ab65f0b57d5c11ef34488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.784006,
+          37.978209
+        ],
+        "type": "Point"
+      },
+      "id": "2c026c31b49c7c351aabbc0cf3ee3fcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.781861,
+          37.978296
+        ],
+        "type": "Point"
+      },
+      "id": "2c305e220fa06127aeee6be5ff510a55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Xwros Thyrwreiou"
+      },
+      "geometry": {
+        "coordinates": [
+          23.783771,
+          37.976526
+        ],
+        "type": "Point"
+      },
+      "id": "2f86aedabf0c7cff9f1881cd617bd71d"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.77843,
+          37.976975
+        ],
+        "type": "Point"
+      },
+      "id": "303cf7c289f837a726f0c1ea5abee302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.782112,
+          37.978261
+        ],
+        "type": "Point"
+      },
+      "id": "3075997a1d5aadc98f9419cb76ba7f58"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.782456,
+          37.976861
+        ],
+        "type": "Point"
+      },
+      "id": "30d07f439ef2b76299a537c9f4f3ff9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.784,
+          37.97943
+        ],
+        "type": "Point"
+      },
+      "id": "349fcf7960434b6633b21cd04b5b15a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.77787,
+          37.977554
+        ],
+        "type": "Point"
+      },
+      "id": "3517a2bfb0954fc7b05d20ed988d361e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Koilikeio"
+      },
+      "geometry": {
+        "coordinates": [
+          23.78507,
+          37.977119
+        ],
+        "type": "Point"
+      },
+      "id": "36f2fbd34559e85c042785ef881e7a7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784523,
+          37.977128
+        ],
+        "type": "Point"
+      },
+      "id": "37752e515a6605c3ca445a5251ae8df4"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.78283,
+          37.979437
+        ],
+        "type": "Point"
+      },
+      "id": "381e7904472ae0cb887a8a0e311474c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.784562,
+          37.976938
+        ],
+        "type": "Point"
+      },
+      "id": "39d5525a588c8ab499b141f195ba73ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.783204,
+          37.979436
+        ],
+        "type": "Point"
+      },
+      "id": "39e1aebc37e6504165b25c8a2972b850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.78168,
+          37.978444
+        ],
+        "type": "Point"
+      },
+      "id": "3fe0f3e12a850647b32e4cc850652539"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.783669,
+          37.973181
+        ],
+        "type": "Point"
+      },
+      "id": "4005f44f3f1c8129e0b279d2aef20e28"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Aithousa Teletwn",
+        "floor": 0
+      },
+      "geometry": {
+        "coordinates": [
+          23.781477,
+          37.977004
+        ],
+        "type": "Point"
+      },
+      "id": "474fb9417bbf6e3a66f4f3d9a699f0b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.782927,
+          37.978656
+        ],
+        "type": "Point"
+      },
+      "id": "47a357749acd95a67256b053ae7027e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.781813,
+          37.97855
+        ],
+        "type": "Point"
+      },
+      "id": "4a91a750162c452fef39d4ca142c3659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1
+      },
+      "geometry": {
+        "coordinates": [
+          23.774486,
+          37.978663
+        ],
+        "type": "Point"
+      },
+      "id": "4b8fc08ec9bb62a546b8399f699fa5ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Grammateia"
+      },
+      "geometry": {
+        "coordinates": [
+          23.779874,
+          37.975688
+        ],
+        "type": "Point"
+      },
+      "id": "4efd120fa83552f147065dc3f17d10b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.782455,
+          37.976862
+        ],
+        "type": "Point"
+      },
+      "id": "52180a9853fcec2fd627efb6970e38b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784007,
+          37.979298
+        ],
+        "type": "Point"
+      },
+      "id": "54e5c4b7d6ed90bc300e84a64668f06d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0
+      },
+      "geometry": {
+        "coordinates": [
+          23.779862,
+          37.975213
+        ],
+        "type": "Point"
+      },
+      "id": "57a97eae7ef63cc71d6861c267a3b92a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Koilikeio",
+        "floor": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.781758,
+          37.976932
+        ],
+        "type": "Point"
+      },
+      "id": "5875f375bb7394cc244e4398c3105c24"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0",
+        "description": "pc-lab"
+      },
+      "geometry": {
+        "coordinates": [
+          23.78327,
+          37.978257
+        ],
+        "type": "Point"
+      },
+      "id": "58f022512d6d911ba2ea7d541643985b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.774003,
+          37.978655
+        ],
+        "type": "Point"
+      },
+      "id": "5ad32a0ef29e8d030bb13847ca520c01"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.783024,
+          37.978625
+        ],
+        "type": "Point"
+      },
+      "id": "5f7cd5201d917396100e4db78c15e5ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.782554,
+          37.976859
+        ],
+        "type": "Point"
+      },
+      "id": "61090301b226b344611c59f05a69d104"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.783436,
+          37.97851
+        ],
+        "type": "Point"
+      },
+      "id": "65fb885322ab9aa57f41edf8304dc8f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0,
+        "description": "Estiatorio"
+      },
+      "geometry": {
+        "coordinates": [
+          23.784378,
+          37.977906
+        ],
+        "type": "Point"
+      },
+      "id": "67f3811ad88a83df6d115b6473230d93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": ""
+      },
+      "geometry": {
+        "coordinates": [
+          23.7828,
+          37.979425
+        ],
+        "type": "Point"
+      },
+      "id": "6af2c3991b307b203477d8cee2fafdf4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.783441,
+          37.978955
+        ],
+        "type": "Point"
+      },
+      "id": "6c2067e9e0fc271803a5b1ddac569c37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.784564,
+          37.976345
+        ],
+        "type": "Point"
+      },
+      "id": "6cc261c3b58558a4a1639b1648efeae9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0,
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.782764,
+          37.978858
+        ],
+        "type": "Point"
+      },
+      "id": "6d7a438446da2715e0028ecb9e22fa21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1
+      },
+      "geometry": {
+        "coordinates": [
+          23.774519,
+          37.978791
+        ],
+        "type": "Point"
+      },
+      "id": "71e022b65faccc475c3a36c3816e69e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784034,
+          37.975555
+        ],
+        "type": "Point"
+      },
+      "id": "742375ce654223d1abd26ddebe3beebc"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.782419,
+          37.977095
+        ],
+        "type": "Point"
+      },
+      "id": "74fa34c9697b83122e1216f7d2a24ebc"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784621,
+          37.979366
+        ],
+        "type": "Point"
+      },
+      "id": "7507fd8b29e01cd81e730e1f5554473d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.783597,
+          37.976565
+        ],
+        "type": "Point"
+      },
+      "id": "78501806c5b8384a13d1232ae29420ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1,
+        "description": "pc-lab"
+      },
+      "geometry": {
+        "coordinates": [
+          23.783242,
+          37.978303
+        ],
+        "type": "Point"
+      },
+      "id": "7faff989ec33f0301754c200a9371a0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.774219,
+          37.97865
+        ],
+        "type": "Point"
+      },
+      "id": "7fd2035bff3adcd403443e0670491b95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.782964,
+          37.979039
+        ],
+        "type": "Point"
+      },
+      "id": "80c416cac217e62794975d4f2b70f95d"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.778131,
+          37.977114
+        ],
+        "type": "Point"
+      },
+      "id": "85011713b8ac868b0970a31f2edaa7a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1
+      },
+      "geometry": {
+        "coordinates": [
+          23.781694,
+          37.978435
+        ],
+        "type": "Point"
+      },
+      "id": "864e63ef7516758c0a36c89af86c02ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Koilikeio"
+      },
+      "geometry": {
+        "coordinates": [
+          23.779105,
+          37.976389
+        ],
+        "type": "Point"
+      },
+      "id": "88277fc0a12298c45aa7e1b9cbe48cc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.778718,
+          37.980815
+        ],
+        "type": "Point"
+      },
+      "id": "88733fd72b5691ae3f0bcaa2b68ed8a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "pc-lab"
+      },
+      "geometry": {
+        "coordinates": [
+          23.778579,
+          37.976529
+        ],
+        "type": "Point"
+      },
+      "id": "89b96efb256970da42a7ee707eedd530"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784053,
+          37.978362
+        ],
+        "type": "Point"
+      },
+      "id": "8ca9ff1fd4e3d0cb169a271ff8b0d0d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0,
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.782764,
+          37.979219
+        ],
+        "type": "Point"
+      },
+      "id": "8f0c858b3177c12baa6208ba267db059"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.778707,
+          37.97672
+        ],
+        "type": "Point"
+      },
+      "id": "9342a9b5a2cdad698358838df1f47f05"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.783081,
+          37.977095
+        ],
+        "type": "Point"
+      },
+      "id": "95342c2953ed0c2ef3f720fde6ff5765"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.778655,
+          37.976644
+        ],
+        "type": "Point"
+      },
+      "id": "9b98467648376a8dd24d8feb34aed402"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784074,
+          37.975655
+        ],
+        "type": "Point"
+      },
+      "id": "9b9884ee30b02d823bd6a61fa62b817e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0,
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.783161,
+          37.979213
+        ],
+        "type": "Point"
+      },
+      "id": "9f7cd6298f977c829e31981b34d476c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1
+      },
+      "geometry": {
+        "coordinates": [
+          23.781756,
+          37.976974
+        ],
+        "type": "Point"
+      },
+      "id": "a1f09bec1e3a1f4bd09630a01c6226e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0
+      },
+      "geometry": {
+        "coordinates": [
+          23.780192,
+          37.975121
+        ],
+        "type": "Point"
+      },
+      "id": "a99dbebe4ec58f59bcc22b725387e70e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.782101,
+          37.977485
+        ],
+        "type": "Point"
+      },
+      "id": "b0dafc6a077b2620a3d334a93b2ff822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1
+      },
+      "geometry": {
+        "coordinates": [
+          23.781825,
+          37.978541
+        ],
+        "type": "Point"
+      },
+      "id": "b37db3af138ecb8c57de7ecfde01b212"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784752,
+          37.976211
+        ],
+        "type": "Point"
+      },
+      "id": "b5e173bbaab1b5364aecd84bcf6d1335"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784306,
+          37.975658
+        ],
+        "type": "Point"
+      },
+      "id": "b67469cbfc55269c9e8b72e80aac7fae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0",
+        "description": "Koilikeio"
+      },
+      "geometry": {
+        "coordinates": [
+          23.782869,
+          37.97862
+        ],
+        "type": "Point"
+      },
+      "id": "b74db4adbf3ca413b5616f0fa9a581c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2
+      },
+      "geometry": {
+        "coordinates": [
+          23.774484,
+          37.978866
+        ],
+        "type": "Point"
+      },
+      "id": "b7bdf823b571c84b65f8b05f3c5f1caa"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.778579,
+          37.976994
+        ],
+        "type": "Point"
+      },
+      "id": "b935e73c87408f8835b9201dfa1186f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2
+      },
+      "geometry": {
+        "coordinates": [
+          23.774453,
+          37.97867
+        ],
+        "type": "Point"
+      },
+      "id": "b99f8ca10e2bd8a27c36d3fc5220958b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2
+      },
+      "geometry": {
+        "coordinates": [
+          23.781767,
+          37.976973
+        ],
+        "type": "Point"
+      },
+      "id": "bd583f1c37458dee488f161c597fe2c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784272,
+          37.979038
+        ],
+        "type": "Point"
+      },
+      "id": "c7470be567cda86f5cd164c6e74eed39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0
+      },
+      "geometry": {
+        "coordinates": [
+          23.779642,
+          37.975272
+        ],
+        "type": "Point"
+      },
+      "id": "c7f2e3f92eed6eaf934de7fcaa6bed85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1
+      },
+      "geometry": {
+        "coordinates": [
+          23.780158,
+          37.975183
+        ],
+        "type": "Point"
+      },
+      "id": "d06e1cf3421849423db52549bfdbf368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Exwterikos Xwros Amfitheatrou"
+      },
+      "geometry": {
+        "coordinates": [
+          23.779065,
+          37.9767
+        ],
+        "type": "Point"
+      },
+      "id": "d0ef6b792c9f6adcf9eb42d3b10b619c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Koilikeio"
+      },
+      "geometry": {
+        "coordinates": [
+          23.784141,
+          37.976562
+        ],
+        "type": "Point"
+      },
+      "id": "d2f7ae86fa3bae962558bd88d8782959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1
+      },
+      "geometry": {
+        "coordinates": [
+          23.781749,
+          37.977234
+        ],
+        "type": "Point"
+      },
+      "id": "d3caba8991e0bb9edbd5f4bc9b6b6f85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": -1,
+        "description": "TD1, TD2"
+      },
+      "geometry": {
+        "coordinates": [
+          23.78237,
+          37.978405
+        ],
+        "type": "Point"
+      },
+      "id": "dc1adab0bc564d2e00b0f21ef1dc0a4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.779573,
+          37.975758
+        ],
+        "type": "Point"
+      },
+      "id": "e1b6e066b25e561907c469d425e7729d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.779265,
+          37.976702
+        ],
+        "type": "Point"
+      },
+      "id": "e39273d91966b6f49a7f56d0ec6f6b97"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.77831,
+          37.977117
+        ],
+        "type": "Point"
+      },
+      "id": "e637b5433b416ac04f8ebf6e60d69cfb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2
+      },
+      "geometry": {
+        "coordinates": [
+          23.779518,
+          37.975373
+        ],
+        "type": "Point"
+      },
+      "id": "e737ddca275a6df83de69ecc1ff3f225"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.78519,
+          37.975662
+        ],
+        "type": "Point"
+      },
+      "id": "e934ef46229b190f99a98a4a9f4538cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2
+      },
+      "geometry": {
+        "coordinates": [
+          23.774486,
+          37.978797
+        ],
+        "type": "Point"
+      },
+      "id": "ec8c0142ac1d726c47b446bdbc4d42e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2
+      },
+      "geometry": {
+        "coordinates": [
+          23.781762,
+          37.977235
+        ],
+        "type": "Point"
+      },
+      "id": "ecd3e087daa6d37f934e007572ea5290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": "0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.78328,
+          37.978954
+        ],
+        "type": "Point"
+      },
+      "id": "efac4c5447278ec66acfcaa5a2596ccb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 2,
+        "description": "Grafeio Antiprytanewn"
+      },
+      "geometry": {
+        "coordinates": [
+          23.781907,
+          37.977471
+        ],
+        "type": "Point"
+      },
+      "id": "f2748468e5a37596077675f35d62f5da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Grammateia"
+      },
+      "geometry": {
+        "coordinates": [
+          23.778563,
+          37.976508
+        ],
+        "type": "Point"
+      },
+      "id": "f3adddc1023de8fd809ebd4a5ba8e465"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          23.784746,
+          37.977322
+        ],
+        "type": "Point"
+      },
+      "id": "f56fe2efa135318d81024de5a67af821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Amfitheatro"
+      },
+      "geometry": {
+        "coordinates": [
+          23.783889,
+          37.976861
+        ],
+        "type": "Point"
+      },
+      "id": "fa0cc271ffd1c3b59b0bb1fd797d32fb"
+    }
+  ],
+  "type": "FeatureCollection"
+}
