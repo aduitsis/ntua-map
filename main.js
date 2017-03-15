@@ -55,7 +55,7 @@ define('main',
 						//				iconSize: 20,
 						//				iconAnchor:[10,20],
 						//			}),
-					});
+					}).bindPopup(feature.properties.description);
 				},
 			}).addTo(map);
 		},
