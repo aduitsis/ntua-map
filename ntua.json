@@ -4,7 +4,7 @@
       "type": "Feature",
       "properties": {
         "floor": 2,
-        "description": "Aithousa Sugklitou"
+        "description": "Αίθουσα Συγκλήτου"
       },
       "geometry": {
         "coordinates": [
@@ -22,8 +22,8 @@
       },
       "geometry": {
         "coordinates": [
-          23.780167,
-          37.975202
+          23.780171,
+          37.975211
         ],
         "type": "Point"
       },
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "floor": 0,
-        "description": "Gewpliroforikis"
+        "description": "Κτήριο Γεωπληροφορικής"
       },
       "geometry": {
         "coordinates": [
@@ -73,7 +73,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -99,7 +99,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Aithousa Ekdilwsewn"
+        "description": "Αίθουσα Εκδηλώσεων",
+        "floor": 0
       },
       "geometry": {
         "coordinates": [
@@ -150,7 +151,7 @@
       "type": "Feature",
       "properties": {
         "floor": -1,
-        "description": "Aithousa Tilekpaideusis"
+        "description": "Αίθουσα Τηλεδιάσκεψης 2"
       },
       "geometry": {
         "coordinates": [
@@ -201,7 +202,7 @@
       "type": "Feature",
       "properties": {
         "floor": 2,
-        "description": "Grafeio Prytani"
+        "description": "Γραφείο Πρύτανη"
       },
       "geometry": {
         "coordinates": [
@@ -229,7 +230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -242,7 +243,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "floor": 0
+      },
       "geometry": {
         "coordinates": [
           23.779121,
@@ -255,7 +258,8 @@
     {
       "type": "Feature",
       "properties": {
-        "floor": -1
+        "floor": -1,
+        "description": "Κέντρο Δικτύων 1"
       },
       "geometry": {
         "coordinates": [
@@ -269,7 +273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -284,7 +288,7 @@
       "type": "Feature",
       "properties": {
         "floor": -1,
-        "description": "Amfitheatro Polymeswn"
+        "description": "Αμφιθέατρο Πολυμέσων"
       },
       "geometry": {
         "coordinates": [
@@ -297,7 +301,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Κτήριο Λιμενικών",
+        "floor": "0"
+      },
       "geometry": {
         "coordinates": [
           23.776772,
@@ -310,7 +317,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο Α"
       },
       "geometry": {
         "coordinates": [
@@ -338,7 +345,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Xwros Thyrwreiou"
+        "description": "Εξωτερικός Χώρος Θυρωρείου",
+        "floor": 0
       },
       "geometry": {
         "coordinates": [
@@ -390,7 +398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο Ζ"
       },
       "geometry": {
         "coordinates": [
@@ -416,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Koilikeio"
+        "description": "Κυλικείο"
       },
       "geometry": {
         "coordinates": [
@@ -454,7 +462,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -484,8 +492,8 @@
       },
       "geometry": {
         "coordinates": [
-          23.78168,
-          37.978444
+          23.781668,
+          37.978453
         ],
         "type": "Point"
       },
@@ -493,7 +501,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "floor": 0,
+        "description": "Γυμναστήριο"
+      },
       "geometry": {
         "coordinates": [
           23.783669,
@@ -506,7 +517,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Aithousa Teletwn",
+        "description": "Αίθουσα Τελετών",
         "floor": 0
       },
       "geometry": {
@@ -537,8 +548,8 @@
       },
       "geometry": {
         "coordinates": [
-          23.781813,
-          37.97855
+          23.781796,
+          37.978557
         ],
         "type": "Point"
       },
@@ -551,8 +562,8 @@
       },
       "geometry": {
         "coordinates": [
-          23.774486,
-          37.978663
+          23.774508,
+          37.978661
         ],
         "type": "Point"
       },
@@ -561,7 +572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Grammateia"
+        "description": "Γραμματεία"
       },
       "geometry": {
         "coordinates": [
@@ -586,7 +597,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Αμφιθέατρο Ζ"
+      },
       "geometry": {
         "coordinates": [
           23.784007,
@@ -613,7 +626,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Koilikeio",
+        "description": "Κυλικείο",
         "floor": "0"
       },
       "geometry": {
@@ -629,7 +642,7 @@
       "type": "Feature",
       "properties": {
         "floor": "0",
-        "description": "pc-lab"
+        "description": "Pc-lab"
       },
       "geometry": {
         "coordinates": [
@@ -692,7 +705,7 @@
       "type": "Feature",
       "properties": {
         "floor": 0,
-        "description": "Estiatorio"
+        "description": "Εστιατόριο"
       },
       "geometry": {
         "coordinates": [
@@ -734,7 +747,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -749,7 +762,7 @@
       "type": "Feature",
       "properties": {
         "floor": 0,
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -767,8 +780,8 @@
       },
       "geometry": {
         "coordinates": [
-          23.774519,
-          37.978791
+          23.774535,
+          37.978789
         ],
         "type": "Point"
       },
@@ -813,7 +826,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο",
+        "floor": 0
       },
       "geometry": {
         "coordinates": [
@@ -828,7 +842,7 @@
       "type": "Feature",
       "properties": {
         "floor": 1,
-        "description": "pc-lab"
+        "description": "Pc-lab"
       },
       "geometry": {
         "coordinates": [
@@ -894,7 +908,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Koilikeio"
+        "description": "Κυλικείο",
+        "floor": 0
       },
       "geometry": {
         "coordinates": [
@@ -907,7 +922,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Κτήριο Διοίκησης Εστιών"
+      },
       "geometry": {
         "coordinates": [
           23.778718,
@@ -920,7 +937,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "pc-lab"
+        "description": "Pc-lab Πολιτικών"
       },
       "geometry": {
         "coordinates": [
@@ -947,7 +964,7 @@
       "type": "Feature",
       "properties": {
         "floor": 0,
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -1010,7 +1027,7 @@
       "type": "Feature",
       "properties": {
         "floor": 0,
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -1103,7 +1120,7 @@
       "type": "Feature",
       "properties": {
         "floor": "0",
-        "description": "Koilikeio"
+        "description": "Κυλικείο"
       },
       "geometry": {
         "coordinates": [
@@ -1161,7 +1178,7 @@
       },
       "geometry": {
         "coordinates": [
-          23.781767,
+          23.781783,
           37.976973
         ],
         "type": "Point"
@@ -1211,7 +1228,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Exwterikos Xwros Amfitheatrou"
+        "description": "Εξωτερικός Χώρος Αμφιθεάτρου",
+        "floor": 0
       },
       "geometry": {
         "coordinates": [
@@ -1225,7 +1243,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Koilikeio"
+        "description": "Κυλικείο",
+        "floor": 0
       },
       "geometry": {
         "coordinates": [
@@ -1254,7 +1273,7 @@
       "type": "Feature",
       "properties": {
         "floor": -1,
-        "description": "TD1, TD2"
+        "description": "Αίθουσα Τηλεδιάσκεψης 1"
       },
       "geometry": {
         "coordinates": [
@@ -1268,7 +1287,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
@@ -1282,7 +1301,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Εσωτερικός Χώρος Αμφιθεάτρου",
+        "floor": 0
       },
       "geometry": {
         "coordinates": [
@@ -1312,8 +1332,8 @@
       },
       "geometry": {
         "coordinates": [
-          23.779518,
-          37.975373
+          23.77952,
+          37.975383
         ],
         "type": "Point"
       },
@@ -1352,8 +1372,8 @@
       },
       "geometry": {
         "coordinates": [
-          23.781762,
-          37.977235
+          23.781775,
+          37.977233
         ],
         "type": "Point"
       },
@@ -1377,7 +1397,7 @@
       "type": "Feature",
       "properties": {
         "floor": 2,
-        "description": "Grafeio Antiprytanewn"
+        "description": "Γραφείο Αντιπρυτάνεων"
       },
       "geometry": {
         "coordinates": [
@@ -1391,7 +1411,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Grammateia"
+        "description": "Γραμματεία"
       },
       "geometry": {
         "coordinates": [
@@ -1417,7 +1437,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Amfitheatro"
+        "description": "Αμφιθέατρο"
       },
       "geometry": {
         "coordinates": [
