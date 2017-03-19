@@ -34,8 +34,11 @@ define('main',
 		    "Wifi Access Points": aps,
 	};
 
-    var map = L.map('map',{layers:[osm,aps]}).setView([init_lon, init_lat], init_zoom);
+    var map = L.map('map').setView([init_lon, init_lat], init_zoom);
+	map.addLayer( osm );
+	map.addLayer( aps );
 	var l = L.control.layers(baseLayers, overlays).addTo(map);
+
 
 	jQuery.ajax({
 		url: 'ntua.json',
